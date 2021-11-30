@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [INFBOT Services](https://github.com/Team-Infernal/INFBOT-Services)
 
-- 📫 How to reach me **samuel.ward@teaminfernal.fr**
+- 📫 Shoot me an email at **samuel.ward@teaminfernal.fr**
 
-- 📄 Know about my experiences [https://jobs.teaminfernal.fr/cv/samuel-ward](https://jobs.teaminfernal.fr/cv/samuel-ward)
+- 📄 Find my resume at [jobs.teaminfernal.fr](https://jobs.teaminfernal.fr/cv/samuel-ward)
 
 <h3 align="left">Find me on these platforms:</h3>
 <p align="left">
