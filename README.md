@@ -5,7 +5,7 @@
 
 - 📫 Shoot me an email at **samuel.ward@teaminfernal.fr**
 
-- 📄 Find my resume at [jobs.teaminfernal.fr](https://jobs.teaminfernal.fr/cv/samuel-ward)
+- 📄 Find my resume at [jobs.teaminfernal.fr](https://jobs.teaminfernal.fr/samuel-ward)
 
 <h3 align="left">Find me on these platforms:</h3>
 <p align="left">
