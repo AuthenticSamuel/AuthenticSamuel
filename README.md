@@ -9,11 +9,11 @@
 
 <h3 align="left">Find me on these platforms:</h3>
 <p align="left">
+<a href="https://discord.gg/team-infernal" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="team-infernal" height="30" width="40" /></a>
 <a href="https://dev.to/zenyth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zenyth" height="30" width="40" /></a>
 <a href="https://twitter.com/inf_zenyth" target="blank"><img align="center" src="https://www.svgrepo.com/show/13677/twitter.svg" alt="inf_zenyth" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17218662" target="blank"><img align="center" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" alt="17218662" height="30" width="40" /></a>
 <a href="https://instagram.com/samuel.wrd" target="blank"><img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="samuel.wrd" height="30" width="40" /></a>
-<a href="https://discord.gg/team-infernal" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="team-infernal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools that I regularly use:</h3>
