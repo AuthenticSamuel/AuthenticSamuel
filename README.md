@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="left">Developper, Student & Gamer</h3>
+<h3 align="left">Developer, Student & Gamer</h3>
 
 - 🔭 I’m currently working on [**INFBOT Services**](https://github.com/Team-Infernal/INFBOT-Services) & [**TeamInfernal.fr**](https://teaminfernal.fr)
 
