@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**INFBOT Services**](https://github.com/Team-Infernal/INFBOT-Services) & [**TeamInfernal.fr**](https://teaminfernal.fr)
 
-- 📫 Shoot me an email at **samuel.ward@teaminfernal.fr**
+- 📫 Shoot me a message on Discord (Zenyth#0001) or an email at **samuel.ward@teaminfernal.fr**
 
 - 📄 Find my resume at [**teaminfernal.fr**](https://teaminfernal.fr/jobs/samuel-ward)
 </div>
