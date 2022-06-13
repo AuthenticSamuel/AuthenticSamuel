@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h1 align="center">👋 Hi, I'm Samuel</h1>
 
 <div align="left">
-<h2>Developer, Student & Intern at Spirkop</h2>
+<h2>Developer, Student, Intern & future Apprentice @ Spirkop</h2>
 
 -   🔭 I’m currently working on [**INFBOT Services**](https://github.com/Team-Infernal/INFBOT-Services) & [**TeamInfernal.fr**](https://teaminfernal.fr)
 
