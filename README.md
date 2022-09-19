@@ -10,9 +10,9 @@
 
 ## You can usually find me here:
 
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/team-infernal)
+[![Discord](https://img.shields.io/discord/328486960664412160?color=5865F2&label=Discord&logo=Discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/team-infernal)
+[![Twitter Follow](https://img.shields.io/twitter/follow/INF_Zenyth?color=1DA1F2&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge)](https://twitter.com/inf_zenyth)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/samuel.wrd)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/inf_zenyth)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=for-the-badge)](https://twitch.tv/inf_zenyth)
 [![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge)](https://dev.to/zenyth)
 
