@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Samuel</h1>
 
 <div align="left">
-<h2>Developer, Student, Intern & future Apprentice @ Spirkop</h2>
+<h2>Developer, Student & Apprentice @ Spirkop</h2>
 
--   🔭 I’m currently working on [**INFBOT Services**](https://github.com/Team-Infernal/INFBOT-Services) & [**TeamInfernal.fr**](https://teaminfernal.fr)
+-   🔭 I’m currently working on [**INFBOT Services**](https://github.com/INF-Zenyth/INFBOT-Services) & [**TeamInfernal.fr**](https://github.com/Team-Infernal/next-infernal)
 
 -   📫 Shoot me a message on Discord (Zenyth#0001) or an email at **samuel.ward@teaminfernal.fr**
 
--   📄 Find my resume at [**teaminfernal.fr**](https://teaminfernal.fr/jobs/samuel-ward)
+-   📄 Find my resume at [**samuelward.fr**](https://samuelward.fr)
 </div>
 
 <div align="left">
