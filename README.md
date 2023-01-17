@@ -5,7 +5,7 @@
 ## Developer, Student & Apprentice @ Spirkop
 
 - 🔭 I’m currently working on [**TeamInfernal.fr**](https://github.com/Team-Infernal/next-infernal) & [**NextBDE**](https://github.com/Team-Infernal/next-bde) for my school group
-- 📫 Shoot me a message on Discord (Zenyth#0001) or an email at **samuel.ward@teaminfernal.fr**
+- 📫 Shoot me a message on Discord (Zenyth#0001) or an email at **samuel@infernal.dev**
 - 📄 Find my resume at [**samuelward.fr**](https://samuelward.fr)
 
 ## You can usually find me here:
