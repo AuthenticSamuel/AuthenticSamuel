@@ -8,7 +8,7 @@
 - 📫 Shoot me a message on Discord (Zenyth#0001) or an email at **samuel@infernal.dev**
 - 📄 Find my resume at [**samuelward.fr**](https://samuelward.fr)
 
-## You can usually find me here:
+## You can usually find me here
 
 [![Discord](https://img.shields.io/discord/328486960664412160?color=5865F2&label=Discord&logo=Discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/team-infernal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/INF_Zenyth?color=1DA1F2&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge)](https://twitter.com/inf_zenyth)
@@ -16,7 +16,7 @@
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=for-the-badge)](https://twitch.tv/inf_zenyth)
 [![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge)](https://dev.to/zenyth)
 
-## Languages & Tools that I've used:
+## Languages & Tools that I've used
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
@@ -49,7 +49,7 @@
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge)
 
-## Stuff that looks interesting:
+## Stuff that looks interesting
 
 ![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge)
 ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
