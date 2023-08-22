@@ -2,9 +2,8 @@
 
 <img align="right" src="https://ghrms.teaminfernal.fr/api/top-langs/?username=inf-zenyth&show_icons=true&theme=radical&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=projetpoo&custom_title=Probably%20my%20favourite%20languages&hide_border=true&langs_count=8" /></p>
 
-## Developer, Student & Apprentice @ Spirkop
+## Developer @ Spirkop
 
-- 🔭 I’m currently working on [**TeamInfernal.fr**](https://github.com/Team-Infernal/next-infernal) & [**NextBDE**](https://github.com/Team-Infernal/next-bde) for my school group
 - 📫 Shoot me a message on Discord (Zenyth#0001) or an email at **samuel@infernal.dev**
 - 📄 Find my resume at [**samuelward.fr**](https://samuelward.fr)
 
