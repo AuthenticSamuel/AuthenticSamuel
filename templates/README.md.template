@@ -48,7 +48,7 @@
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge)
 
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
 
 {{ template "daily-table" .Weathers }}
 
