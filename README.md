@@ -66,11 +66,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>10.5 °C</td><td>10.2 °C</td><td>10 °C</td><td>10 °C</td><td>9.8 °C</td><td>9.6 °C</td><td>9.5 °C</td><td>9.5 °C</td><td>10.4 °C</td><td>12.2 °C</td><td>13.5 °C</td><td>14.8 °C</td><td>15.9 °C</td><td>16.9 °C</td><td>17.4 °C</td><td>17.8 °C</td><td>17.8 °C</td><td>17.4 °C</td><td>15.4 °C</td><td>16 °C</td><td>12.8 °C</td><td>12.3 °C</td><td>12 °C</td><td>11.9 °C</td>
+        <td>10.5 °C</td><td>10.2 °C</td><td>10 °C</td><td>10 °C</td><td>9.8 °C</td><td>9.6 °C</td><td>9.5 °C</td><td>9.5 °C</td><td>10.4 °C</td><td>12.2 °C</td><td>13.5 °C</td><td>14.8 °C</td><td>15.9 °C</td><td>16.9 °C</td><td>17.4 °C</td><td>17.8 °C</td><td>17.8 °C</td><td>17.4 °C</td><td>15.4 °C</td><td>13.6 °C</td><td>15 °C</td><td>12.3 °C</td><td>12 °C</td><td>11.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>6.5 kph</td><td>3.6 kph</td><td>7.9 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>3.6 kph</td>
+        <td>10.8 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>7.9 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>3.6 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -100,4 +100,4 @@
 </table>
 
 
-Updated at 2023-10-04T17:24:18Z
+Updated at 2023-10-04T18:28:08Z
