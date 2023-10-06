@@ -66,11 +66,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11.7 °C</td><td>11.4 °C</td><td>11.1 °C</td><td>10.9 °C</td><td>10.7 °C</td><td>10.4 °C</td><td>10.3 °C</td><td>10.1 °C</td><td>11 °C</td><td>13.1 °C</td><td>15.2 °C</td><td>17.1 °C</td><td>19 °C</td><td>20.5 °C</td><td>21.4 °C</td><td>21.8 °C</td><td>21.7 °C</td><td>20.6 °C</td><td>17.6 °C</td><td>15.7 °C</td><td>14.7 °C</td><td>13.8 °C</td><td>13 °C</td><td>12 °C</td>
+        <td>12.3 °C</td><td>9 °C</td><td>12.2 °C</td><td>12.1 °C</td><td>11.9 °C</td><td>11.7 °C</td><td>11.6 °C</td><td>11.6 °C</td><td>12.9 °C</td><td>15.6 °C</td><td>18.2 °C</td><td>20.3 °C</td><td>22 °C</td><td>23.4 °C</td><td>24.3 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>23.9 °C</td><td>20.8 °C</td><td>19 °C</td><td>18.1 °C</td><td>17.5 °C</td><td>17.1 °C</td><td>16.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.9 kph</td><td>7.6 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>5.8 kph</td><td>6.1 kph</td>
+        <td>3.6 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4 kph</td><td>4 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>5 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>4.3 kph</td>
     </tr>
 </table>
 
@@ -79,7 +79,7 @@
 <table>
     <tr>
         <th>Date</th>
-        <td>06/10/2023</td><td>07/10/2023</td><td>08/10/2023</td>
+        <td>07/10/2023</td><td>08/10/2023</td><td>09/10/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -91,13 +91,13 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>10.1 -  21.8 °C</td><td>11.6 -  24.6 °C</td><td>13.7 -  25.6 °C</td>
+        <td>11.6 -  24.6 °C</td><td>13.7 -  25.6 °C</td><td>14.1 -  26.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.1 kph</td><td>7.9 kph</td><td>9.7 kph</td>
+        <td>7.9 kph</td><td>9.7 kph</td><td>6.8 kph</td>
     </tr>
 </table>
 
 
-Updated at 2023-10-06T21:18:35Z
+Updated at 2023-10-06T22:23:43Z
